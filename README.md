@@ -1,0 +1,2 @@
+# investiqs
+Personal finance blog
